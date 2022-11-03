@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Inter-Regular';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Inter-Regular');
+    src: url(Inter/Inter-Regular.eot);
+    src: url(Inter/Inter-Regular.woff2) format("woff2"),
+        url(Inter/Inter-Regular.woff) format("woff"),
+        url(Inter/Inter-Regular.ttf) format("truetype"),
+        url(Inter/Inter-Regular.svg) format("svg"),
+        url(Inter/Inter-Regular.eot) format("embedded-opentype");
+}
+
+@font-face {
+    font-family: 'Inter-Medium';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Inter-Medium');
+    src: url(Inter/Inter-Medium.eot);
+    src: url(Inter/Inter-Medium.woff2) format("woff2"),
+        url(Inter/Inter-Medium.woff) format("woff"),
+        url(Inter/Inter-Medium.ttf) format("truetype"),
+        url(Inter/Inter-Medium.svg) format("svg"),
+        url(Inter/Inter-Medium.eot) format("embedded-opentype");
+}
+
+@font-face {
+    font-family: 'Inter-Bold';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Inter-Bold');
+    src: url(Inter/Inter-Bold.eot);
+    src: url(Inter/Inter-Bold.woff2) format("woff2"),
+        url(Inter/Inter-Bold.woff) format("woff"),
+        url(Inter/Inter-Bold.ttf) format("truetype"),
+        url(Inter/Inter-Bold.svg) format("svg"),
+        url(Inter/Inter-Bold.eot) format("embedded-opentype");
+}
